@@ -1,0 +1,95 @@
+{
+  "customers": [
+    {
+      "id": "0f3e",
+      "name": "890",
+      "fullName": "kopil",
+      "identifier": "870089",
+      "address": "kolkata",
+      "email": "kopil@uok.lk",
+      "contactNo": "90809090909"
+    },
+    {
+      "id": "38c6",
+      "name": "809",
+      "fullName": "morgana",
+      "identifier": "8990",
+      "address": "london",
+      "email": "morgana@gmail.com",
+      "contactNo": "9808099"
+    },
+    {
+      "id": "958e",
+      "name": "7890",
+      "fullName": "koli",
+      "identifier": "7888",
+      "address": "kolkata",
+      "email": "koli@hotmail.com",
+      "contactNo": "87908909"
+    },
+    {
+      "id": "7d5d",
+      "name": "90",
+      "fullName": "kolp",
+      "identifier": "980",
+      "address": "gfnhnh",
+      "email": "bgfhg",
+      "contactNo": "797809"
+    },
+    {
+      "id": "38d4",
+      "name": "980",
+      "fullName": "rash",
+      "identifier": "089",
+      "address": "gsdvjfdhvj",
+      "email": "rghfjuk",
+      "contactNo": "787098"
+    },
+    {
+      "id": "455b",
+      "name": "7809",
+      "fullName": "tashya",
+      "identifier": "98098",
+      "address": "Australia",
+      "email": "tashya@hotmail.com",
+      "contactNo": "908098098090"
+    },
+    
+    {
+      "id": "84b2",
+      "name": "80213",
+      "fullName": "Ruhi",
+      "identifier": "908",
+      "address": "India",
+      "email": "jshdkj",
+      "contactNo": "87990"
+    },
+    {
+      "id": "d029",
+      "name": "908",
+      "fullName": "Bhagi",
+      "identifier": "908980",
+      "address": "Sri lanka",
+      "email": "halikjhdj",
+      "contactNo": "92310930"
+    },
+    {
+      "id": "c5bf",
+      "name": "91802",
+      "fullName": "Kihara",
+      "identifier": "122",
+      "address": "Kolkata",
+      "email": "hf",
+      "contactNo": "098"
+    },
+    {
+      "id": "3335",
+      "name": "8980",
+      "fullName": "test",
+      "identifier": "99090",
+      "address": "fkjl",
+      "email": "hthjuy",
+      "contactNo": "32324"
+    }
+  ]
+}
